@@ -12,4 +12,6 @@ Antes de empezar puedes configurar tu setup inicial de forma muy sencilla para p
 
     
 Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambios de la clase debes hacer un `pull` del repositorio remoto siguiendo estos sencillos pasos
+![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/c8277267-8f27-451e-bd51-5b1acb1afd93)
+
 
