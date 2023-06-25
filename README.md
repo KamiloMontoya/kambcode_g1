@@ -6,9 +6,8 @@ Antes de empezar puedes configurar tu setup inicial de forma muy sencilla para p
     - Crea una cuenta en **GitHub** para poder tener acceso al repositorio de la clase (https://github.com/)
     - Configura Visual Studio Code para que se conecte a tu cuenta de GitHub y ahora clona nuestro proyecto de clase
 
-      1. ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/e1ae4282-8cee-403b-9f66-7fb9af62241d)
-
-      2. ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/5f91b356-3cc8-4dfd-b46e-b043e0327cfa)
+![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/e1ae4282-8cee-403b-9f66-7fb9af62241d)
+![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/5f91b356-3cc8-4dfd-b46e-b043e0327cfa)
 
     
 Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambios de la clase debes hacer un `pull` del repositorio remoto siguiendo estos sencillos pasos
